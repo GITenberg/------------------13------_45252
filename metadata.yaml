@@ -14,6 +14,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/43174
     wikipedia: http://en.wikipedia.org/wiki/Isaac_Erter
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/45252#------------------13------
 gutenberg_issued: '2014-03-28'
 gutenberg_type: Text
 identifiers:
