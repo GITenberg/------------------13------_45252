@@ -1,0 +1,29 @@
+_repo: '------------------13------_45252'
+_version: 0.1.0
+alternative_title: "haTsofe leBet Israel\r\nTashlikh"
+covers:
+- cover_type: archival
+  image_path: 45252-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Erter, Isaac
+    alias: יצחק ערטער
+    birthdate: 1792
+    deathdate: 1851
+    gutenberg_agent_id: '43174'
+    url: http://www.gutenberg.org/2009/agents/43174
+    wikipedia: http://en.wikipedia.org/wiki/Isaac_Erter
+description: ''
+gutenberg_issued: '2014-03-28'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '45252'
+language: he
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Satire, Hebrew'
+title: "הצופה לבית ישראל\r\nתשליך"
+url: http://www.gutenberg.org/ebooks/45252
